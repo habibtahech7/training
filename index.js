@@ -1,5 +1,5 @@
 function test () {
      
-    alert('Full stack training with Rony Rizk');
-    
+    alert('Full stack training !!!');
+
 }
